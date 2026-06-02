@@ -121,12 +121,7 @@ oecd-spending-gdp-growth/
 ├── data/
 │   ├── oecdspending.csv    # OECD COFOG expenditure data
 │   └── GDPgrowthAPI.csv    # World Bank GDP growth data
-└── plots/
-    ├── plot_health_bar.png
-    ├── plot_health_scatter.png
-    ├── plot_social_scatter.png
-    ├── plot_econ_scatter.png
-    └── plot_correlation.png
+
 ```
 
 ---
