@@ -87,7 +87,8 @@ These results are consistent with mainstream growth economics: productive invest
 
 
 ### Correlation Matrix
-<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/646765e1-f5cb-4d9d-836e-c289404970a5" />
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/8c59bfff-74fc-441b-90bb-8bd4d7f50b38" />
+
 
 ---
 
