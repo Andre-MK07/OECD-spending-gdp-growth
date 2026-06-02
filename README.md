@@ -75,14 +75,16 @@ These results are consistent with mainstream growth economics: productive invest
 ## Visualizations
 
 ### Health Spending Share by Country (2019)
-<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/caaaea46-aaec-4a2b-946e-ded5f5d66430" />
+<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/0d140994-d406-4cae-8870-862232175afd" />
+
 
 ### Spending Shares vs GDP Growth
-<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/e4b6766d-bcc8-46f4-9af4-71f7adb44c52" />
+<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/1b27e155-bc78-4aad-8d26-8e8b608cd9cf" />
 
-<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/5f9ee1e0-2237-45a5-bd62-ee3c7fc6af27" />
+<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/c9ff9d55-db6c-4f0f-9cb1-67ad6ea421e2" />
 
-<img width="1014" height="994" alt="image" src="https://github.com/user-attachments/assets/a7f59c65-b503-4fef-9f19-e0ace3b42e93" />
+<img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/ae2bffa6-3d12-4b9b-8057-b6dada5d5c78" />
+
 
 ### Correlation Matrix
 <img width="500" height="820" alt="image" src="https://github.com/user-attachments/assets/646765e1-f5cb-4d9d-836e-c289404970a5" />
